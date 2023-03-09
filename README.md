@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Park%20Yeeun&fontSize=80)
-# 🐧Profile
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023&show_icons=true&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=🐧Park%20Yeeun🐧&fontSize=80)
+# Profile
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeun3011)](https://solved.ac/yeeun3011/)
 # 💪Skills
 ### Platforms & Languages
