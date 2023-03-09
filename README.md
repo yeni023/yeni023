@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://solved.ac/profile/yeeun3011})](https://solved.ac/{https://solved.ac/profile/yeeun3011})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yeni023})](https://solved.ac/{yeni023}
