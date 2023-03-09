@@ -1,5 +1,4 @@
-### 🚀Stacks🚀
-
+# 🐧Park Yeeun🐧
 <!--
 **yeni023/yeni023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={yeni023})](https://solved.ac/{yeni023}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeun3011)](https://solved.ac/yeeun3011/)
+# 💪Skills
+### Platforms & Languages
+
+### Tools
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
