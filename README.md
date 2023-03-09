@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=yeni023)&hide=stars,contribs&count_private=true&show_icons=true
