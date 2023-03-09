@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeni023&layout=Demo&theme=tokyonight)
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
