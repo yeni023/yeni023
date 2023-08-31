@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece6cc&height=280&section=header&text=🐧PARK%20YEEUN&fontSize=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=4C9900&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+yeeun's+GitHub!👋)](https://git.io/typing-svg)
  
-# Profile
+# 👩🏻‍💻Profile
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023)](https://github.com/yeni023/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeun3011)](https://solved.ac/yeeun3011/)
-# 👩🏻‍💻WorkSpace
+# 💻WorkSpace
 <a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=Hexcode&logoColor=Hexcode"/></a>
 # 💪Skills
 ### Platforms & Languages
