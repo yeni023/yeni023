@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece6cc&height=280&section=header&text=🐧PARK%20YEEUN&fontSize=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=4C9900&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+yeeun's+GitHub!👋)](https://git.io/typing-svg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DD80AC&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align=center><h1>👩🏻‍💻Profile</h1></div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yeni023"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni023&show_icons=true&theme=shadow_blue)
 
