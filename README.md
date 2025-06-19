@@ -7,10 +7,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yeeun+Park;Frontend+Developer" alt="Typing SVG" /></a>
 
 <div>
-  <h2>🎓 Education </h2>
+<!--   <h2>🎓 Education </h2>
   <p>
     - <strong><em>SungKyul University, Computer Science Engineering</em></strong> (2021.03 - 2025.08)
-  </p>
+  </p> -->
 	<h2>🚀 Activity</h2>
 	<table>
 		<thead>
@@ -21,8 +21,12 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td>2023.03 - 2025.01</td>
+				<td>2023.03 - 2025.05</td>
 				<td>✨ 42Seoul 공통 과정 9기</td>
+			</tr>
+			<tr>
+				<td>2025.05 - ing</td>
+				<td>✨ 42Seoul 심화 과정</td>
 			</tr>
 			<tr>
 				<td>2025.03 - 2025.08</td>
