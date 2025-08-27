@@ -7,10 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yeeun+Park;Frontend+Developer" alt="Typing SVG" /></a>
 
 <div>
-<!--   <h2>🎓 Education </h2>
-  <p>
-    - <strong><em>SungKyul University, Computer Science Engineering</em></strong> (2021.03 - 2025.08)
-  </p> -->
 	<h2>🚀 Activity</h2>
 	<table>
 		<thead>
@@ -34,6 +30,35 @@
 			</tr>
 		</tbody>
 	</table>
+	<br>
+	<h2>📁 Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🖥️ 42Seoul</td>
+      <td>교육 과정 기록 및 과제 저장소</td>
+      <td><a href="https://github.com/yeni023/42Seoul">Link</a></td>
+    </tr>
+    <tr>
+      <td>💸 FinMate</td>
+      <td>맞춤형 금융상품 추천 서비스 (KB IT's Your Life 6기)</td>
+      <td><a href="https://github.com/KB-technologia/FinMate_FE">Link</a></td>
+    </tr>
+    <tr>
+      <td>✈️ Money J</td>
+      <td>여행 목표 기반 SNPL 금융 비서 (KB IT's Your Life 6기)</td>
+      <td><a href="https://github.com/KB-moneyJ/moneyJ_FE">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+	<br>
 	<h2>🛠 Stacks</h2>
 	<p>
 		<a href="https://skillicons.dev">
