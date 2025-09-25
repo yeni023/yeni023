@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td>✈️ Money J</td>
-      <td>여행 목표 기반 SNPL 금융 비서 (KB IT's Your Life 6기)</td>
+      <td>여행 목표 기반 SNPL 금융 비서 (KB 해커톤)</td>
       <td><a href="https://github.com/KB-moneyJ/moneyJ_FE">Link</a></td>
     </tr>
   </tbody>
