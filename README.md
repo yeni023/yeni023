@@ -21,7 +21,7 @@
 				<td>✨ 42Seoul 공통 과정 9기</td>
 			</tr>
 			<tr>
-				<td>2025.05 - ing</td>
+				<td>2025.05 - 2026.02</td>
 				<td>✨ 42Seoul 심화 과정</td>
 			</tr>
 			<tr>
