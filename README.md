@@ -28,6 +28,10 @@
 				<td>2025.03 - 2025.08</td>
 				<td>✨ [KB] IT's Your Life 6기</td>
 			</tr>
+			<tr>
+				<td>2025.11.03 - ing</td>
+				<td>✈️ [TRAPORT] Frontend Developer</td>
+			</tr>
 		</tbody>
 	</table>
 	<br>
