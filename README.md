@@ -18,11 +18,11 @@
 		<tbody>
 			<tr>
 				<td>2023.03 - 2025.05</td>
-				<td>✨ 42Seoul 공통 과정 9기</td>
+				<td>✨ [42Seoul] 공통 과정 9기</td>
 			</tr>
 			<tr>
 				<td>2025.05 - 2026.02</td>
-				<td>✨ 42Seoul 심화 과정</td>
+				<td>✨ [42Seoul] 심화 과정</td>
 			</tr>
 			<tr>
 				<td>2025.03 - 2025.08</td>
@@ -78,10 +78,12 @@
 <br>
 
 ## ✨ Github Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeni023&show_icons=true&theme=graywhite&show_icons=true" height="150" />
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noeyoes&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/yeni023" height="150" />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yeni023&theme=default" height="160" />
 </div>
 
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noeyoes&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yeni023" width="700" />
+  </a>
+</div>
